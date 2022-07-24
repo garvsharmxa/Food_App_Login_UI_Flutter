@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976149991647",
+    "project_id": "cufoodx",
+    "storage_bucket": "cufoodx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976149991647:android:c33bb91287a2169904d96a",
+        "android_client_info": {
+          "package_name": "com.example.cu_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976149991647-0vc9n4275f0fm7tdng8o5n2m4pof0k1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhPItVh499em_GozSFj2xTTJPuaeH-Z2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976149991647-0vc9n4275f0fm7tdng8o5n2m4pof0k1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
